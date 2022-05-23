@@ -1,1 +1,1 @@
-FaceMAE is a new paradgim for privacy-presevering face recognition via masked autoencoders.
+FaceMAE is a new paradigm for privacy-preserving face recognition via MAE.
